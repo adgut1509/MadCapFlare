@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileLanguage="pl"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/NewImport1.css" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Toruń" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Jan_Krzysztof_Ardanowski" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Prawo_i_Sprawiedliwość" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Zbigniew_Girzyński" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Mariusz_Kałużny" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Iwona_Michałek" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Polska_Razem" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Arkadiusz_Myrcha" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Platforma_Obywatelska" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Tomasz_Lenz" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Iwona_Hartwich" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Joanna_Scheuring-Wielgus" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Sojusz_Lewicy_Demokratycznej" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Robert_Kwiatkowski_(polityk)" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Paweł_Szramka" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Polskie_Stronnictwo_Ludowe" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Antoni_Mężydło" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Parlament_Europejski" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Radosław_Sikorski" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Kosma_Złotowski" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/NewImport1.css" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Toruń#cite_note-105" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Toruń#cite_note-106" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Jan_Krzysztof_Ardanowski" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Prawo_i_Sprawiedliwość" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Zbigniew_Girzyński" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Mariusz_Kałużny" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Iwona_Michałek" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Polska_Razem" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Arkadiusz_Myrcha" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Platforma_Obywatelska" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Tomasz_Lenz" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Iwona_Hartwich" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Joanna_Scheuring-Wielgus" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Sojusz_Lewicy_Demokratycznej" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Robert_Kwiatkowski_(polityk)" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Paweł_Szramka" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Polskie_Stronnictwo_Ludowe" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Antoni_Mężydło" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Parlament_Europejski" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Radosław_Sikorski" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Kosma_Złotowski" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/NewImport1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/x/PDF/PDF.pdf"
+  BuildVersion="17.2.8047.30191">
+  <Files>
+    <Url
+      Source="Output/x/Temporary/PDF/PDF_82C55D3/Resources/Images/Torun_-_czesci1.svg.png" />
+    <Url
+      Source="Output/x/PDF/PDF.pdf" />
+    <Url
+      Source="Output/x/Temporary/PDF/PDF_82C55D3/Resources/Images/Plus.png" />
+    <Url
+      Source="Output/x/Temporary/PDF/PDF_82C55D3/Resources/Images/Minus.png" />
+    <Url
+      Source="Output/x/Temporary/PDF/PDF_82C55D3/Resources/TableStylesheets/Color-with-Subsections.css" />
+    <Url
+      Source="Output/x/Temporary/PDF/PDF_82C55D3/Resources/Images/Backmatter-Heading-Background.png" />
+    <Url
+      Source="Output/x/Temporary/PDF/PDF_82C55D3/Resources/Images/tor.jpg" />
+    <Url
+      Source="Output/x/Temporary/PDF/PDF_82C55D3/Resources/Images/Centrum_Kulturalno-Kongresowe_Jordanki,_sala_główna.jpg" />
+    <Url
+      Source="Output/x/Temporary/PDF/PDF_82C55D3/Resources/Images/Hero-Background.jpg" />
+    <Url
+      Source="Output/x/Temporary/PDF/PDF_82C55D3/Resources/Images/herb.png" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

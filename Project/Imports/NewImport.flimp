@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport PreserveMappedStyles="True" CreateNewStylesheet="True" InlineFormatting="Convert" UseFirstHeadingAsTopicTitle="True" UseMaxCharLimit="False" MaxCharLimit="10000" UseMinCharLimit="True" MinCharLimit="50" AddContinuedLinks="False" ContinuedLinkFormat="(continued in {title})" AddContinuedFromLinks="False" ContinuedFromLinkFormat="(continued from {title})" FilenameLength="24" AutoFitTables="False" UseHeaderRows="False" TableStyles="ProjectStyleSheet" UseListBullets="True" ConvertEquations="True" GeneratePageLayouts="False" PageBreaks="Convert" KeepSourceLinks="False" AutoSync="False" ImportFolder="05_Import" LastImport="2022-02-26T11:39:39.5070574+01:00">
+    <Files>
+        <Url Source="../../../../Users/x/Downloads/Domowe wino.docx" AbsoluteSource="file:///C:/Users/x/Downloads/Domowe wino.docx" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles />
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/05_Import/Co to jest wino domowe.htm" TimeStamp="26.02.2022 11:35:32" />
+        <Url Source="../../Content/Resources/Images/Domowe wino/Domowe wino co należy przygotować.jpg" TimeStamp="26.02.2022 11:35:32" />
+        <Url Source="../../Content/05_Import/Domowe wino co należy przygotować.htm" TimeStamp="26.02.2022 11:35:32" />
+        <Url Source="../TOCs/NewImport.fltoc" TimeStamp="26.02.2022 11:35:32" />
+        <Url Source="../../Content/Resources/Stylesheets/NewImport.css" TimeStamp="26.02.2022 11:35:32" />
+    </GeneratedFiles>
+    <ParagraphStyles>
+        <Map From="Heading 1" To="h1.Heading1" Style="Word" />
+    </ParagraphStyles>
+    <CharacterStyles>
+        <Map From="Hyperlink" To="a.Hyperlink" Style="Word" />
+    </CharacterStyles>
+    <NewTopicStyles>
+        <StyleName Name="Heading 1" />
+    </NewTopicStyles>
+</MsWordImport>

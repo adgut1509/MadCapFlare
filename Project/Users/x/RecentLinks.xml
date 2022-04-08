@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="C:\Flare\MyCity\Content\Resources\Snippets\Welcome.flsnp" />
+    </Dialog>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Flare\MyCity\Content\Resources\Images\torun.jpg" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="C:\Flare\MyCity\Content\03_Gospodarka\01_Charakterstyka.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\Flare\MyCity\Content\03_Gospodarka\01_Charakterstyka.htm" />
+    </Dialog>
+</RecentLinks>

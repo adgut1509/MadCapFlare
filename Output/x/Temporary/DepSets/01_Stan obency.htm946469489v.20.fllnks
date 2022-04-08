@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Stan obecny"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Reforma_administracyjna_w_Polsce_(1999)" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Województwo_toruńskie" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Województwo_kujawsko-pomorskie" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Bydgoszcz" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Budynek_Urzędu_Marszałkowskiego_w_Toruniu" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Samorząd_województwa" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Wojewoda" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Toruń" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Reforma_administracyjna_w_Polsce_(1999)" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Województwo_toruńskie" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Województwo_kujawsko-pomorskie" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Bydgoszcz" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Budynek_Urzędu_Marszałkowskiego_w_Toruniu" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Samorząd_województwa" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Wojewoda" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Toruń#cite_note-78" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

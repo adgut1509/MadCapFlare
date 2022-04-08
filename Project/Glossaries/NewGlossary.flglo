@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="NewGlossary.Term0"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Toruń</Term>
+    </Terms>
+    <Definition
+      Link="">miasto na prawach powiatu w północnej Polsce, siedziba sejmiku, zarządu i marszałka województwa oraz jednostek im podporządkowanych</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

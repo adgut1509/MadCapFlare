@@ -1,0 +1,1 @@
+define({'Toruń':{d:'miasto na prawach powiatu w północnej Polsce, siedziba sejmiku, zarządu i marszałka województwa oraz jednostek im podporządkowanych',l:''}});

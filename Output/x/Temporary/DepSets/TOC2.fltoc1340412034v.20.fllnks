@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Strona tytułowa.htm" />
+    <Link
+      Url="Content/01_Historia/01_W państwie krzyżackim.htm" />
+    <Link
+      Url="Content/02_Administracja/01_Stan obency.htm" />
+    <Link
+      Url="Content/03_Gospodarka/Gospodarka.htm" />
+    <Link
+      Url="Content/04_Kultura_i_sztuka/02_Znane marki z Torunia.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

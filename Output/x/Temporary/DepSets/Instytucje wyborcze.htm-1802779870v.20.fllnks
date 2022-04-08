@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle=""
+  FileLanguage="pl"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Stylesheets/NewImport1.css" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Krajowe_Biuro_Wyborcze" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Komisja_wyborcza" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Okręg_wyborczy_nr_5_do_Sejmu_Rzeczypospolitej_Polskiej" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Grudziądz" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Włocławek" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_aleksandrowski" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_brodnicki" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_chełmiński" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_golubsko-dobrzyński" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_grudziądzki" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_lipnowski" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_radziejowski" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_rypiński" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_toruński" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_wąbrzeski" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_włocławski" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Okręg_wyborczy_nr_11_do_Senatu_Rzeczypospolitej_Polskiej" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Okręg_wyborczy_nr_13_do_Senatu_Rzeczypospolitej_Polskiej" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Okręg_wyborczy_nr_12_do_Senatu_Rzeczypospolitej_Polskiej" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Stylesheets/NewImport1.css" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Krajowe_Biuro_Wyborcze" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Komisja_wyborcza" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Okręg_wyborczy_nr_5_do_Sejmu_Rzeczypospolitej_Polskiej" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Grudziądz" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Włocławek" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_aleksandrowski" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_brodnicki" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_chełmiński" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_golubsko-dobrzyński" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_grudziądzki" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_lipnowski" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_radziejowski" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_rypiński" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_toruński" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_wąbrzeski" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Powiat_włocławski" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Okręg_wyborczy_nr_11_do_Senatu_Rzeczypospolitej_Polskiej" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Okręg_wyborczy_nr_13_do_Senatu_Rzeczypospolitej_Polskiej" />
+    <Link
+      Url="https://pl.wikipedia.org/wiki/Okręg_wyborczy_nr_12_do_Senatu_Rzeczypospolitej_Polskiej" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/Stylesheets/NewImport1.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport PreserveMappedStyles="True" CreateNewStylesheet="True" InlineFormatting="Convert" UseFirstHeadingAsTopicTitle="True" UseMaxCharLimit="False" MaxCharLimit="10000" UseMinCharLimit="True" MinCharLimit="50" AddContinuedLinks="False" ContinuedLinkFormat="(continued in {title})" AddContinuedFromLinks="False" ContinuedFromLinkFormat="(continued from {title})" FilenameLength="24" AutoFitTables="False" UseHeaderRows="False" TableStyles="ProjectStyleSheet" UseListBullets="True" ConvertEquations="True" GeneratePageLayouts="False" PageBreaks="Convert" KeepSourceLinks="False" AutoSync="False" ImportFolder="05_Import" LastImport="2022-02-26T11:41:54.1137316+01:00">
+    <Files>
+        <Url Source="../../../../Users/x/Downloads/biura.docx" AbsoluteSource="file:///C:/Users/x/Downloads/biura.docx" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles />
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/05_Import/Biura poselskie.htm" TimeStamp="26.02.2022 11:41:44" />
+        <Url Source="../../Content/05_Import/Instytucje wyborcze.htm" TimeStamp="26.02.2022 11:41:44" />
+        <Url Source="../../Content/Resources/Images/biura/Dyplomacja.png" TimeStamp="26.02.2022 11:41:44" />
+        <Url Source="../../Content/Resources/Images/biura/Dyplomacja.jpg" TimeStamp="26.02.2022 11:41:44" />
+        <Url Source="../../Content/05_Import/Dyplomacja.htm" TimeStamp="26.02.2022 11:41:44" />
+        <Url Source="../TOCs/NewImport1.fltoc" TimeStamp="26.02.2022 11:41:44" />
+        <Url Source="../../Content/Resources/Stylesheets/NewImport1.css" TimeStamp="26.02.2022 11:41:44" />
+    </GeneratedFiles>
+    <ParagraphStyles>
+        <Map From="Heading 1" To="h1.Heading1" Style="Word" />
+        <Map From="Heading 2" To="h2.Heading2" Style="Word" />
+    </ParagraphStyles>
+    <CharacterStyles />
+    <NewTopicStyles>
+        <StyleName Name="Heading 1" />
+    </NewTopicStyles>
+</MsWordImport>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Toruń">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Strona tytułowa2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      PageType="title"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Strona2.flpgl" />
+    <TocEntry
+      Title="Historia"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageType="right">
+      <TocEntry
+        Title="W państwie krzyżackim"
+        Link="/Content/01_Historia/01_W państwie krzyżackim.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="W granicach Rzeczypospolitej"
+        Link="/Content/01_Historia/02_W granicach Rzeczypospolitej.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="W Królestwie Prus"
+        Link="/Content/01_Historia/03_W Królestwie Prus.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="W Księstwie Warszawskim"
+        Link="/Content/01_Historia/04_W Księstwie Warszawskim.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Okres pruski"
+        Link="/Content/01_Historia/05_Okres pruski.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Okres PRL"
+        Link="/Content/01_Historia/06_Okres PRL.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Po 1989 roku"
+        Link="/Content/01_Historia/07_Po 1989 roku.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Administracja">
+      <TocEntry
+        Title="Stan obecny"
+        Link="/Content/02_Administracja/01_Stan obency.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Podział miasta"
+        Link="/Content/02_Administracja/02_Podział miasta.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Gospodarka">
+      <TocEntry
+        Title="Charakterystyka"
+        Link="/Content/03_Gospodarka/01_Charakterstyka.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Znane marki z torunia"
+        Link="/Content/03_Gospodarka/02_Znane marki w Touniu.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Kultura i sztuka">
+      <TocEntry
+        Title="Kultura i sztuka"
+        Link="/Content/04_Kultura_i_sztuka/Kultura i sztuka.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>

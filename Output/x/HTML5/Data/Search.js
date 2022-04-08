@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/01_Historia/01_W państwie krzyżackim.htm'],s:['1','religijnych'],p:[['1',1],['o',2],['wybudowano',5]]});
